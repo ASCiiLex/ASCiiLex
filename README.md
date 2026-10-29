@@ -19,7 +19,7 @@ Me interesa construir soluciones útiles, comprender cómo funcionan de principi
 ## 🚀 Proyectos destacados
 
 ### [RevealLess](https://github.com/ASCiiLex/RevealLess)
-Plataforma social en desarrollo orientada a evitar spoilers según el progreso de cada usuario en una historia.
+Red social que protege frente a los spoilers adaptando la visibilidad de las publicaciones al progreso narrativo de cada usuario. Desarrollada con Django, React y PostgreSQL, incorpora un motor de visibilidad propio e IA como asistente para clasificar las revelaciones, manteniendo el control final en manos del autor.
 
 ### [Madrid Hand Surgery Center](https://github.com/ASCiiLex/madrid-hand-surgery-center)
 Proyecto web profesional realizado con WordPress y Elementor Pro, con trabajo de configuración web, contenidos y SEO.
