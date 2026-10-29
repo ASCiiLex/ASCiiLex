@@ -39,9 +39,10 @@ Mi experiencia profesional previa me ha permitido desarrollar competencias en:
 - Resolución de incidencias y orientación a resultados.
 - Marketing digital, gestión administrativa y procesos de negocio.
 
-## 📚 Formación continua
+## 📚 Formación especializada
 
-Actualmente continúo formándome en desarrollo Full Stack y tecnologías Blockchain, reforzando mis conocimientos mediante proyectos prácticos.
+- **Máster en Desarrollo Web Full Stack:** formación avanzada en Python, Django, React, bases de datos y desarrollo web, actualmente ampliada con nuevos contenidos de IA.
+- **Máster en Desarrollo Blockchain:** formación en Solidity, EVM y tecnologías Web3, con contenidos adicionales en evolución.
 
 ## 📫 Contacto
 
