@@ -18,16 +18,16 @@ Me interesa construir soluciones útiles, comprender cómo funcionan de principi
 
 ## 🚀 Proyectos destacados
 
-### RevealLess
+### [RevealLess](https://github.com/ASCiiLex/RevealLess)
 Plataforma social en desarrollo orientada a evitar spoilers según el progreso de cada usuario en una historia.
 
-### Madrid Hand Surgery Center
+### [Madrid Hand Surgery Center](https://github.com/ASCiiLex/madrid-hand-surgery-center)
 Proyecto web profesional realizado con WordPress y Elementor Pro, con trabajo de configuración web, contenidos y SEO.
 
-### SistemaInventario_Django
-Proyecto de formación para practicar el desarrollo de aplicaciones web con Django.
+### [SistemaInventario_Django](https://github.com/ASCiiLex/SistemaInventario_Django)
+Aplicación SaaS de gestión de inventario desarrollada con Django, con soporte multi-organización, stock por ubicación y lógica de dominio real.
 
-### Proyecto-ReactJS
+### [Proyecto-ReactJS](https://github.com/ASCiiLex/Proyecto-ReactJS)
 Proyecto práctico centrado en el desarrollo frontend con React.
 
 ## 💼 Experiencia que aporto
